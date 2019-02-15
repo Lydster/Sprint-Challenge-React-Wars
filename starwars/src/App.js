@@ -39,7 +39,7 @@ class App extends Component {
         </div>
         <div>
           <CharacterList 
-            characters={this.state.starwarsChars}
+            starwarsChars={this.state.starwarsChars}
             />
         </div>
       </div>

@@ -24,13 +24,21 @@ In this challenge, create a web page that presents a styled list of Star Wars ch
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
-- [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
+- [x] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-- [ ] What does it mean to _think_ in react?
+React JS is a javascript library that was created to handle really large amounts of data dynamically with really great performance. React was originally created by facebook, so that they could seemlessly update data on the page without having to update the entire page. React allows you to just only update the elements selected with each action which is why it performs so well.
 
-- [ ] Describe state.
+- [x] What does it mean to _think_ in react?
 
-- [ ] Describe props.
+From what I've read, thinking in react is similar to the process in which we learned react this week. We started with a diagram of the broken down elements on the ad we styled the first day. The second day we build a static version of a calculator. The third day we made an MVP todo list and then started expanding our features and building out where and when to manipulate our state. Thinking in react is being strategic about how to build features, so that you do not disrupt the flow of your state.
+
+- [x] Describe state.
+
+State is created inside the component and is used when you need to make changes to data, or keep track of new information.
+
+- [x] Describe props.
+
+Props are the propeties that are passed down to a component. 
 
 ## Project Set Up
 

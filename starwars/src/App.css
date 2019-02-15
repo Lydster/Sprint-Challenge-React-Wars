@@ -1,8 +1,36 @@
 .App {
   text-align: center;
+  font-size: 62.5%;
 }
 .Header {
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
+  font-size: 2em;
 }
 /* write your parent styles in here for your App.js */
+.data {
+  color: white;
+}
+
+.character {
+  border: 2px solid lightgray;
+  width: 600px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-radius: 20px; 
+}
+
+
+
+.smallDetails{
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  background: lightgrey;
+}
+
+.nameofChar {
+  font-size: 2em;
+  text-align: center;
+  color: Black;
+}

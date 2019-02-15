@@ -2,6 +2,7 @@ import React from 'react';
 import Character from './Character';
 
 const CharacterList = props => {
+    
     return (
         <div className='charList'>
             {props.starwarsChars.map((character, idx) => (
